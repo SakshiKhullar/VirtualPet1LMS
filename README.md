@@ -1,1 +1,1 @@
-# VirtualPet1LMS
+# VP-1
